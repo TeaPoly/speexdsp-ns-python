@@ -68,6 +68,10 @@ near.close()
 out.close()
 ```
 
+or
+
+```python examples/main.py in.wav out.wav```
+
 Noise suppression as show in figure below:
 
 ![image](examples/pic.jpg)
