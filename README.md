@@ -3,7 +3,7 @@ Python bindings of speexdsp noise suppression library
 
 Modified from https://github.com/xiongyihui/speexdsp-python
 
-You can use it in Noise reduction model training as said in [Personalized PercepNet: Real-time, Low-complexity Target Voice Separation and Enhancement](https://arxiv.org/abs/2106.04129)
+You can use it in Noise reduction model training as said in [Personalized PercepNet: Real-time, Low-complexity Target Voice Separation and Enhancement](https://arxiv.org/abs/2106.04129).
 > Use a VAD and lightweight denoiser (SpeexDSP1) to eliminate the stationary noise before using this data for training.
 
 ## Requirements
@@ -21,6 +21,7 @@ You can use it in Noise reduction model training as said in [Personalized Percep
     ```
 
 ## Get started
+
 ```python
 """Acoustic Noise Suppression for wav files."""
 
