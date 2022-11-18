@@ -13,12 +13,11 @@ You can use it in Noise reduction model training as said in [Personalized Percep
 + libspeexdsp-dev
 
 ## Build
-
-    ```
-    sudo apt install libspeexdsp-dev
-    sudo apt install swig
-    python setup.py install
-    ```
+```shell
+sudo apt install libspeexdsp-dev
+sudo apt install swig
+python setup.py install
+```
 
 ## Get started
 
