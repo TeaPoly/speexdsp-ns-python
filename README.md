@@ -1,7 +1,7 @@
 Python bindings of speexdsp noise suppression library
 ===================
 
-Modified from a https://github.com/xiongyihui/speexdsp-python
+Modified from https://github.com/xiongyihui/speexdsp-python
 
 ## Requirements
 + swig
